@@ -1,0 +1,17 @@
+[
+  {
+      "paciente": "Juan Pérez",
+      "fecha": "2024-07-10T10:30:00",
+      "hora": "10:30"
+  },
+  {
+      "paciente": "María González",
+      "fecha": "2024-07-12T14:00:00",
+      "hora": "14:00"
+  },
+  {
+      "paciente": "Pedro Gómez",
+      "fecha": "2024-07-15T11:15:00",
+      "hora": "11:15"
+  }
+]
